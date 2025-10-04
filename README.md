@@ -1,6 +1,6 @@
 # CogniCanvas: The Illustrative AI Chat Companion
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jmnyarega/generated-app-20251004-141248)
 
 > A visually breathtaking and whimsical AI chat application with an illustrative design, featuring powerful agentic capabilities and seamless session management.
 
@@ -106,7 +106,7 @@ This project is designed for easy deployment to Cloudflare's global network.
 
 Alternatively, deploy directly from your GitHub repository:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jmnyarega/generated-app-20251004-141248)
 
 ## 📂 Project Structure
 
